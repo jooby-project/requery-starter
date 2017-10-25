@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/jooby-project/requery-starter.svg?branch=master)](https://travis-ci.org/jooby-project/requery-starter)
-# requery
+# requery starter
 
 Starter kit for [Requery](https://github.com/requery/requery).
 
